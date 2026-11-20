@@ -1,0 +1,46 @@
+body{
+  max-width: 50rem;
+  margin:0 auto;
+  padding :2rem ,1.2rem;
+  font:sansserif,serif;
+  color: #9d5430;
+}
+
+header{
+  margin-bottom: 2px;
+  border-bottom: 2px, solid#1f4e79;
+}
+h1{
+  margin: o;
+  font-size: 2.25rem;
+}
+h2{
+  margin:0.25rem,0,0.75rem;
+  font: size 1.15rem;
+  color: #791f1f;
+}
+section{
+  margin-bottom: 1.17;
+  color: red;
+}
+h3{
+  margin: 000.6rem;
+  padding-bottom : 4rem;
+  font-size: 1.25rem;
+  color: #1d2430;
+  border-bottom: 1px solid #d5dae1;
+}
+h4{
+  margin: 1rem,0,0.1rem;
+  font-size: 1.05rem;
+}
+p{margin: 0,0,0.5rem;}
+
+ul{
+    margin: o.5rem,0,0;
+    padding-left:1.2rem;
+}
+a{color: #1f4e7d}
+
+
+
